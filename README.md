@@ -1,7 +1,12 @@
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnaLouBispo&theme=javascript-dark=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLouBispo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLouBispo&layout=compact&langs_count=16&theme=transparent">
 </div>
-[![Estatísticas do GitHub de AnaLouBispo](https://github-readme-stats.vercel.app/api?username=AnaLouBispo)]([https://github.com/AnaLouBispo)
-
+<div>
+<img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
+ 
