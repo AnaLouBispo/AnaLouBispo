@@ -1,5 +1,5 @@
-![github-header-image (2)](https://github.com/AnaLouBispo/AnaLouBispo/assets/152741754/24407150-0c03-430b-830c-cb26110e6c4b)
- 
+![github-header-image (1)](https://github.com/AnaLouBispo/AnaLouBispo/assets/152741754/a1c641a6-c0e7-4a6d-b934-aa6d526ee8a7)
+
  
 - 🔭 Atualmente participo de um projeto de aprendizagem com a Libbs Farmacêutica ...
 - 😄 Cursando Técnico em Desenvolvimento de Sistemas no Senai...
