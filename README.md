@@ -1,4 +1,5 @@
-![github-header-image (3)](https://github.com/AnaLouBispo/AnaLouBispo/assets/152741754/b504804d-7217-4e4f-ac0a-a2ab7c418196)
+
+![github-header-image](https://github.com/user-attachments/assets/e45859cf-d278-4bf7-9296-24350e2b38f6)
 
  
 - 🔭 Atualmente participo de um projeto de aprendizagem com a Libbs Farmacêutica ...
