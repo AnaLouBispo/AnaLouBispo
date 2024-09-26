@@ -7,7 +7,7 @@
 - Cursando o ultimo ano de E.M
  
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLouBispo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLouBispo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLouBispo&layout=compact&hide_border=true&title_color=ffff&text_color=ffff&bg_color=0000" />
 </div>
 </div>
