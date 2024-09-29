@@ -19,7 +19,7 @@
 <img align="center" height="35" width="47" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
 <img align="center" height="35" width="47" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
 <img align="center" height="35" width="47" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
- <img aling="center" height="35" width="47" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"
+ <img aling="center" height="35" width="47" src="https://icongr.am/devicon/nodejs-original.svg?size=148&color=currentColor" />
 </div>
 
  <div align="center" >
