@@ -1,5 +1,6 @@
 
-![github-header-image](https://github.com/user-attachments/assets/e45859cf-d278-4bf7-9296-24350e2b38f6)
+![github-header-image](https:![github-header-image (6)](https://github.com/user-attachments/assets/7feba943-6caf-47c6-a19a-8a4d32558ec0)
+
 
  
 - 🔭 Atualmente participo de um projeto de aprendizagem com a Libbs Farmacêutica ...
