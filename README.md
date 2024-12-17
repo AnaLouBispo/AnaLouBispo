@@ -7,7 +7,7 @@
  
 - 🔭 Atualmente participo de um projeto de aprendizagem com a Libbs Farmacêutica ...
 - Cursando Técnico em Desenvolvimento de Sistemas no Senai...
-- Cursando o ultimo ano de E.M
+
  
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLouBispo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
