@@ -1,13 +1,11 @@
-# Olá, eu sou a Ana Beatriz! 👋
 
 [![Header](https://github.com/user-attachments/assets/5d95563c-822f-4d44-93c2-5dac74f0b16c)](https://github.com/AnaLouBispo)
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 - 💼 Atualmente participo de um projeto de aprendizagem com a **Libbs Farmacêutica**
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no Senai
 - 🌱 Aprendendo constantemente sobre desenvolvimento full-stack
-- ✨ Apaixonada por tecnologia e soluções inovadoras
 
 ## 📊 Minhas Estatísticas GitHub
 
@@ -38,10 +36,6 @@
    <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
    <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
 </div>
-
-## 🌟 Projetos Destacados
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnaLouBispo&repo=seu-repositorio&theme=midnight-purple)](https://github.com/AnaLouBispo/seu-repositorio)
 
 ## 📩 Contato
 
