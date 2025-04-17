@@ -25,6 +25,19 @@
    <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 
+<h1>Tools</h1>
+<div>
+   <!-- IDEs -->
+   <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" />
+   <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" title="Eclipse" />   
+   <!-- Databases -->
+   <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL Workbench" />
+   <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" />
+   <!-- Version Control -->
+   <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git Desktop" />
+</div>
+
+
  <div align="center" >
 
  
