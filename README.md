@@ -16,10 +16,13 @@
 </div>
 
 <div>
-<img align="center" height="35" width="47" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
-<img align="center" height="35" width="47" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
-<img align="center" height="35" width="47" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
-
+   <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+   <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+   <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+   <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+   <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img align="center" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 
  <div align="center" >
