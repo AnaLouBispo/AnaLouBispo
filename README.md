@@ -16,7 +16,6 @@
   </a>
 </div>
 
-## 💻 Stack Tecnológico
 
 ### Linguagens e Frameworks
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
