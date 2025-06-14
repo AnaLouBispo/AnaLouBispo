@@ -1,7 +1,7 @@
 
 ![headerAB](https://github.com/user-attachments/assets/f46bca08-f5c2-47e5-886a-2da26e05bed2)
 
-##  Sobre Mim
+##  About Me
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no Senai
 - 🌱 Aprendendo constantemente sobre desenvolvimento full-stack
 
@@ -33,4 +33,10 @@
    <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
    <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
 </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ana-beatriz-loureiro-bispo-889a8b257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-santos-de-oliveira-7b2753262" height="30" width="40" /></a>
+<a href="https://instagram.com/bea8lb__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ineffable.lucas" height="30" width="40" /></a>
+</p>
+
 </div>
