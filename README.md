@@ -1,13 +1,11 @@
 
-[![Header](https://github.com/user-attachments/assets/5d95563c-822f-4d44-93c2-5dac74f0b16c)](https://github.com/AnaLouBispo)
+![headerAB](https://github.com/user-attachments/assets/f46bca08-f5c2-47e5-886a-2da26e05bed2)
 
 ##  Sobre Mim
-
-- 💼 Atualmente participo de um projeto de aprendizagem com a **Libbs Farmacêutica**
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no Senai
 - 🌱 Aprendendo constantemente sobre desenvolvimento full-stack
 
-## 📊 Minhas Estatísticas GitHub
+## 📊 Statistic
 
 <div align="center">
   <a href="https://github.com/AnaLouBispo">
