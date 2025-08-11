@@ -2,7 +2,8 @@
 ![headerAB](https://github.com/user-attachments/assets/f46bca08-f5c2-47e5-886a-2da26e05bed2)
 
 ##  About Me
-- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no Senai
+- 🎓 Cursando **Análise em Desenvolvimento de Sistemas** na UniFecaf
+- 🎓 Formada em **Desenvolvimento de Sistemas** pelo Senai
 - 🌱 Aprendendo constantemente sobre desenvolvimento full-stack
 
 ## 📊 Statistic
