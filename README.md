@@ -1,7 +1,6 @@
 
 ![headerAB](https://github.com/user-attachments/assets/f46bca08-f5c2-47e5-886a-2da26e05bed2)
 
-## 📊 Statistic
 
 <div align="center">
   <a href="https://github.com/AnaLouBispo">
