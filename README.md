@@ -8,11 +8,13 @@
   </a>
 </div>
 
-
+<div style="color:purple;">
+  
 ##  About Me
 - 🎓 Cursando **Análise em Desenvolvimento de Sistemas** na UniFecaf
 - 🎓 Formada em **Desenvolvimento de Sistemas** pelo Senai
 - 🌱 Aprendendo constantemente sobre desenvolvimento full-stack
+</div>
 
 
 
