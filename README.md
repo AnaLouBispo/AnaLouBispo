@@ -21,7 +21,9 @@
 
 
 
-     <h1> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚ </h1> 
+   <div>
+       <h1> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚ </h1> 
+   </div>
    <img alt="img" height="180em" src="https://i.pinimg.com/originals/84/0a/c1/840ac1a5eef2c7abcaca3e4757db48e9.gif"/>
   
 
