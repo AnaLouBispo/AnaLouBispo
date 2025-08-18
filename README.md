@@ -1,11 +1,6 @@
 
 ![headerAB](https://github.com/user-attachments/assets/f46bca08-f5c2-47e5-886a-2da26e05bed2)
 
-##  About Me
-- 🎓 Cursando **Análise em Desenvolvimento de Sistemas** na UniFecaf
-- 🎓 Formada em **Desenvolvimento de Sistemas** pelo Senai
-- 🌱 Aprendendo constantemente sobre desenvolvimento full-stack
-
 ## 📊 Statistic
 
 <div align="center">
@@ -14,6 +9,14 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLouBispo&layout=compact&theme=midnight-purple&hide_border=true">
   </a>
 </div>
+
+
+##  About Me
+- 🎓 Cursando **Análise em Desenvolvimento de Sistemas** na UniFecaf
+- 🎓 Formada em **Desenvolvimento de Sistemas** pelo Senai
+- 🌱 Aprendendo constantemente sobre desenvolvimento full-stack
+
+
 
 
 ### Linguagens e Frameworks
