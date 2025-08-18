@@ -1,7 +1,7 @@
 ![headerAB](https://github.com/user-attachments/assets/f46bca08-f5c2-47e5-886a-2da26e05bed2)
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/AnaLouBispo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLouBispo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLouBispo&layout=compact&theme=midnight-purple&hide_border=true">
