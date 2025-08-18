@@ -8,7 +8,8 @@
   </a>
 </div>
 
-<div style="color:purple;">
+
+<div style="text-align:center";">
   
 ##  About Me
 - 🎓 Cursando **Análise em Desenvolvimento de Sistemas** na UniFecaf
