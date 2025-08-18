@@ -9,38 +9,48 @@
 </div>
 
 
-<div style="text-align:center";">
-  
-##  About Me
-- 🎓 Cursando **Análise em Desenvolvimento de Sistemas** na UniFecaf
-- 🎓 Formada em **Desenvolvimento de Sistemas** pelo Senai
-- 🌱 Aprendendo constantemente sobre desenvolvimento full-stack
-</div>
+<h2 align="center"> About Me </h2>
 
-
-
-
-### Linguagens e Frameworks
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-   <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
-   <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
-   <img alt="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter"/>
-   <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
-   <img alt="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
-   <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
-</div>
-
-### Ferramentas e Bancos de Dados
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 15px;">
-   <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
-   <img alt="Eclipse" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse"/>
-   <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
-   <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
-   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
-</div>
-<h3 align="left">Connect with me :> </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ana-beatriz-loureiro-bispo-889a8b257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-santos-de-oliveira-7b2753262" height="30" width="40" /></a>
+<p align="center">
+  🎓 Cursando <strong>Análise em Desenvolvimento de Sistemas</strong> na UniFecaf<br>
+  🎓 Formada em <strong>Desenvolvimento de Sistemas</strong> pelo Senai<br>
+  🌱 Aprendendo constantemente sobre desenvolvimento full-stack
 </p>
 
-</div>
+---
+
+### 🚀 Linguagens e Frameworks
+
+<p align="left">
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img alt="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter"/>
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+  <img alt="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
+  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+</p>
+
+---
+
+### 🛠️ Ferramentas e Bancos de Dados
+
+<p align="left">
+  <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+  <img alt="Eclipse" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse"/>
+  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
+  <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+</p>
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ana-beatriz-loureiro-bispo-889a8b257/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ana Beatriz Loureiro Bispo" height="30" width="40" />
+  </a>
+</p>
+
+
+
