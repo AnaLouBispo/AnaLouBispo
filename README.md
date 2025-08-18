@@ -9,9 +9,9 @@
 </div>
 
 
-<h2 align="center"> About Me </h2>
+<h2 align="left"> About Me </h2>
 
-<p align="center">
+<p align="left">
   🎓 Cursando <strong>Análise em Desenvolvimento de Sistemas</strong> na UniFecaf<br>
   🎓 Formada em <strong>Desenvolvimento de Sistemas</strong> pelo Senai<br>
   🌱 Aprendendo constantemente sobre desenvolvimento full-stack
@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 Linguagens e Frameworks
+### 🚀 Languages & Frameworks
 
 <p align="left">
   <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠️ Ferramentas e Bancos de Dados
+###  Tools & Databases
 
 <p align="left">
   <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
@@ -44,7 +44,7 @@
 
 ---
 
-### 🌐 Connect with me
+### Connect with me ;)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ana-beatriz-loureiro-bispo-889a8b257/" target="_blank">
