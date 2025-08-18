@@ -19,6 +19,9 @@
 
 ---
 
+
+ <img alt="img" height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code](https://i.pinimg.com/originals/15/31/d9/1531d96faf25999edbcf86d299c84c53.gif)"/>
+
 ### ★ Languages & Frameworks
 
 <p align="left">
